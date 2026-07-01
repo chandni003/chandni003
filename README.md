@@ -115,15 +115,15 @@
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/chandani-kumari-c1003">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<!-- <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+</a> -->
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/chandni003">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -135,6 +135,6 @@
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=chandni003&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
