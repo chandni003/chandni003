@@ -29,7 +29,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python" />
 </p>
 
 ### Frontend
@@ -41,13 +41,13 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firestore,google-cloudSpanner" />
 </p>
 
 ### Tools
@@ -58,9 +58,9 @@
 
 ---
 
-# 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=chandni003&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -68,7 +68,7 @@
 
 </p>
 
----
+---  -->
 
 # 🔥 GitHub Streak
 
@@ -86,19 +86,19 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandni003&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</p> 
 
 ---
 
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=chandni003&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-</p>
+</p> 
 
----
+--- -->
 
 # 🌟 Featured Projects
 
